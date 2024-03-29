@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/panukatan/panukatan.r-universe.dev
 	branch = HEAD
+[submodule "openbangsamoro"]
+	path = openbangsamoro
+	url = https://github.com/panukatan/openbangsamoro
+[submodule "openmarawi"]
+	path = openmarawi
+	url = https://github.com/panukatan/openmarawi
