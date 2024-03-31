@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/panukatan/panukatan.r-universe.dev
 	branch = HEAD
-[submodule "openbangsamor"]
-	path = openbangsamor
+[submodule "openbangsamoro"]
+	path = openbangsamoro
 	url = https://github.com/panukatan/openbangsamoro
 [submodule "openmarawi"]
 	path = openmarawi
