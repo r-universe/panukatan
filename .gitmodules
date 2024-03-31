@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/panukatan/panukatan.r-universe.dev
 	branch = HEAD
+[submodule "geokodigo"]
+	path = geokodigo
+	url = https://github.com/panukatan/geokodigo
 [submodule "openbangsamoro"]
 	path = openbangsamoro
 	url = https://github.com/panukatan/openbangsamoro
 [submodule "openmarawi"]
 	path = openmarawi
 	url = https://github.com/panukatan/openmarawi
+[submodule "talaan"]
+	path = talaan
+	url = https://github.com/panukatan/talaan
