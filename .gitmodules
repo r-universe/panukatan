@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/panukatan/panukatan.r-universe.dev
 	branch = HEAD
+[submodule "bagyo"]
+	path = bagyo
+	url = https://github.com/panukatan/bagyo
 [submodule "geokodigo"]
 	path = geokodigo
 	url = https://github.com/panukatan/geokodigo
