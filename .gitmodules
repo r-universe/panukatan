@@ -8,6 +8,9 @@
 [submodule "geokodigo"]
 	path = geokodigo
 	url = https://github.com/panukatan/geokodigo
+[submodule "lindol"]
+	path = lindol
+	url = https://github.com/panukatan/lindol
 [submodule "openbangsamoro"]
 	path = openbangsamoro
 	url = https://github.com/panukatan/openbangsamoro
